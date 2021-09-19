@@ -9,7 +9,7 @@ Facebook, Instagram, and Titkok Downloader
 # Preview
 
 
-![dwnldr](https://user-images.githubusercontent.com/49785290/133937466-aac0396e-1a08-4ce4-8707-bb6db98b87d3.PNG)
+![dwnldr](https://user-images.githubusercontent.com/49785290/133937483-9f698533-7f44-4c5c-bb9d-38fe2141bd0b.PNG)
 
 
 # Reference
