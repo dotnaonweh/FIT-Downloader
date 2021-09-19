@@ -8,11 +8,11 @@ Facebook, Instagram, and Titkok Downloader
 
 # Installation & Usage
 **Requirement: python 3.x or higher**
-- install python3
-- install requests and colorama 
-- python -m pip install requests
-- python -m pip install colorama
-- python  fit.py
+
+- git clone https://github.com/dotnaonweh/FIT-Downloader.git
+- cd FIT-Downloader
+- python -m pip install -r requirements.txt
+- python fit.py
 
 # Preview
 
