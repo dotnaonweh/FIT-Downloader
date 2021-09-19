@@ -6,6 +6,14 @@ Facebook, Instagram, and Titkok Downloader
 - Instagram Downloader ( Photo & Videos )
 - Tiktok Downloader ( With Watermark )
 
+# Installation & Usage
+**Requirement: python 3.x or higher**
+- install python3
+- install requests and colorama 
+- python -m pip install requests
+- python -m pip install colorama
+- python  fit.py
+
 # Preview
 
 
