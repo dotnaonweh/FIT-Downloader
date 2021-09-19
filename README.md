@@ -14,7 +14,4 @@ Facebook, Instagram, and Titkok Downloader
 
 # Reference
 
-https://github.com/sinonx
-
-
-Thanks to : stackoverflow
+// https://github.com/sinonx
