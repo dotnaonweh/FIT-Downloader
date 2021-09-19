@@ -9,11 +9,10 @@ Facebook, Instagram, and Titkok Downloader
 # Preview
 
 
-![fit](https://user-images.githubusercontent.com/49785290/133937408-8098ea2c-f9c1-4431-90e6-f41153762cf5.PNG)
+![dwnldr](https://user-images.githubusercontent.com/49785290/133937466-aac0396e-1a08-4ce4-8707-bb6db98b87d3.PNG)
 
 
 # Reference
-
 
 https://github.com/sinonx
 
