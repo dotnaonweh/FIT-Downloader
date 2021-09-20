@@ -7,7 +7,7 @@ Facebook, Instagram, and Titkok Downloader
 - Tiktok Downloader ( With Watermark )
 
 # Installation & Usage
-**Requirement: python 3
+**Requirement: python 3 **
 
 - git clone https://github.com/dotnaonweh/FIT-Downloader.git
 - cd FIT-Downloader
